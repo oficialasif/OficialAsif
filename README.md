@@ -49,3 +49,8 @@ Skills: REACT / EXPRESS / NODE / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oficialasif)](https://github.com/ryo-ma/github-profile-trophy)
 
+<hr>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oficialasif&label=Profile%20views&color=0e75b6&style=flat" alt="oficialasif" /> </p>
+
+
